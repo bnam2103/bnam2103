@@ -6,6 +6,9 @@ My Projects
 
 - [Project 2](https://huggingface.co/nambn0321/ASR_french_3): A fine-tuned Whisper ASR model that can produce transcription given French speeches/audio. Click on Project 2 for more details and a live demo.
 
-- [Project 3](https://github.com/bnam2103/Kaggle_competitions): Kaggle competitions and some of "my best works".
+- [Project 3](https://huggingface.co/nambn0321/NMT_opus_fr_en): A fine-tuned NMT model that can translate French to English precisely. Click on Project 3 for more details and a live demo
+
+- [Project 4](https://github.com/bnam2103/Kaggle_competitions): Kaggle competitions and some of "my best works".
+ 
 
 Thanks for visiting my profile :D
