@@ -9,6 +9,8 @@ My Projects
 - [Project 3](https://huggingface.co/nambn0321/NMT_opus_fr_en): A fine-tuned NMT model that can translate French to English precisely. Click on Project 3 for more details and a live demo
 
 - [Project 4](https://github.com/bnam2103/Kaggle_competitions): Kaggle competitions and some of "my best works".
+
+- [Project 5](https://github.com/bnam2103/Exploratory-Data-Analysis): Data Analysis and presentations at Coder School.
  
 
 Thanks for visiting my profile :D
