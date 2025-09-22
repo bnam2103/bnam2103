@@ -10,7 +10,7 @@ My Projects
 
 - [Project 4](https://github.com/bnam2103/Kaggle_competitions): Kaggle competitions and some of "my best works".
 
-- [Project 5](https://github.com/bnam2103/Exploratory-Data-Analysis): Data Analysis and presentations at Coder School.
+- [Project 5](https://github.com/bnam2103/Exploratory-Data-Analysis): Data Analysis and presentations.
  
 
 Thanks for visiting my profile :D
