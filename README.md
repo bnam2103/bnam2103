@@ -2,7 +2,7 @@
 
 My Projects
 
-- [Project 0](https://huggingface.co/spaces/nambn0321/Live_translation_french): This implemnts 3 models used in project 1, 2 and 3 to make a live translation that could potentially used in earbuds (example is the implementation of live translation in airpods 4)
+- [Project 0](https://huggingface.co/spaces/nambn0321/Live_translation_french): This project integrates the three models from Projects 1, 2, and 3 into a real-time speech translation system. It demonstrates live translation from spoken French to spoken English, which is similar to the multilingual live translation functionality seen in devices like the AirPods Pro 4.
   
 - [Project 1](https://github.com/bnam2103/T5-Text-to-Speech-US-English): Fine-tuned T5 models that can produce speeches with an American accent; there are two models with two different voices. For audio samples from each model, click [here](https://bnam2103.github.io/tts_t5/). For more information and a live demo, click on Project 1.
 
