@@ -1,7 +1,7 @@
 ## Hi, I'm Nam! 
 
 My Projects
-- [Project 0](): This project integrates three models Whisper-large, LLAMA 3.0 and my fine-tuned TTS which you can find in project 2 into a real-time conversational AI system.
+- [Project 0](https://bnam2103.github.io/VERA-ai/): This project integrates the three models Whisper-large, LLAMA 3.0, and a custom fine-tuned TTS model developed in Project 2 into a real-time conversational AI system. *This project is currently in progress, with planned features including user-specific memory, web-based actions such as search, and Spotify music playback using the user’s Spotify API.*
 
 - [Project 1](https://huggingface.co/spaces/nambn0321/Live_translation_french): This project integrates the three models from Projects 2, 3, and 4 into a real-time speech translation system from spoken French to spoken English.
   
