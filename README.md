@@ -18,4 +18,4 @@ My Projects
 - [Project 6](https://github.com/bnam2103/Exploratory-Data-Analysis): Data Analysis and presentations.
  
 
-Thanks for visiting my profile :D
+Contact: nambn0938@gmail.com
