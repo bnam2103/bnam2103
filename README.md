@@ -3,7 +3,7 @@
 I'm a Data Science student at UC Irvine focused on machine learning and applied AI. I enjoy building end-to-end AI systems involving speech, language models, and real-time intelligent applications. I'm pursuing opportunities in machine learning engineering and applied AI.
 
 My Projects
-- [Project 0](https://bnam2103.github.io/VERA-ai/): This project integrates the three models Whisper-large, LLAMA 3.0, and a custom fine-tuned TTS model developed in Project 2 into a real-time conversational AI system named VERA. Click on Project 0 for more details and a live demo.
+- [Project 0](https://workwithvera.com/): This project integrates the three models Whisper-large, LLAMA 3.0, and a custom fine-tuned TTS model developed in Project 2 into a real-time conversational AI system named VERA. Click on Project 0 for more details and a live demo.
 
 - [Project 1](https://huggingface.co/spaces/nambn0321/Live_translation_french): This project integrates the three models from Projects 2, 3, and 4 into a real-time speech translation system from spoken French to spoken English. Click on Project 1 for more details and a live demo.
   
